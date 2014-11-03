@@ -47,5 +47,7 @@ gem 'font-awesome-rails'
 # Paging
 gem 'kaminari'
 
-# Rename the app
-gem 'rename'
+# Devise token authentication (courtesy of @lynndylanhurley)
+gem 'devise_token_auth'
+
+
